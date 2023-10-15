@@ -1,3 +1,7 @@
+// Name: Shubhendra Kushwaha
+// Registration no.: 2241011241
+// Problem Statement: https://cses.fi/problemset/task/1083
+
 import java.util.Scanner;
 
 public class Q2_1083 {
